@@ -29,11 +29,11 @@
                 <h2>Welcome to the Philip Management System</h2>
                 <p>Use the sidebar to navigate between different sections:</p>
                 <ul>
-                    <li><strong>Colleges</strong> - Manage academic colleges</li>
-                    <li><strong>Programs</strong> - Manage degree programs</li>
-                    <li><strong>Students</strong> - Manage student information</li>
-                    <li><strong>Courses</strong> - Manage course/subject information</li>
-                    <li><strong>Grades</strong> - Manage student grades</li>
+                    <li><b>Colleges</b> - Manage academic colleges</li>
+                    <li><b>Programs</b> - Manage degree programs</li>
+                    <li><b>Students</b> - Manage student information</li>
+                    <li><b>Courses</b> - Manage course/subject information</li>
+                    <li><b>Grades</b> - Manage student grades</li>
                 </ul>
             </div>
 
